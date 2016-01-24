@@ -1,5 +1,7 @@
 # Airbnb Data Analysis
 
+### Sentiment analysis, topic modeling, seasonality analysis on airbnb data 
+
 List of Contents
 - [Motivation](https://github.com/Kiminaka/airbnb_data_analysis/blob/master/0_Motivation.pdf)
 - 1) [Data merge](https://github.com/Kiminaka/airbnb_data_analysis/blob/master/1_Airbnb_data_merge.ipynb)
