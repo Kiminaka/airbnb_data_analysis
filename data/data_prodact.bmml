@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1622" measuredH="1369" mockupW="1406" mockupH="1260">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="216" y="109" w="683" h="488" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//avoidbadairbnb.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="445" y="259" w="-1" h="-1" measuredW="224" measuredH="36" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Avoid%20Bad%20Airbnb%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="663" y="379" w="85" h="22" measuredW="68" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20out</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="411" y="379" w="237" h="-1" measuredW="100" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Airbnb%20room%20url</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Paragraph" x="324" y="300" w="466" h="43" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Put%20Airbnb%20room%20url%20that%20you%20are%20considering%20below%20to%20find%20out%20if%20the%20place%20has%20potential%20risks</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="939" y="109" w="683" h="292" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//avoidbadairbnb.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="1207" y="259" w="-1" h="-1" measuredW="146" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Good%20to%20go%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="1047" y="310" w="466" h="43" measuredW="275" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>The%20airbnb%20room%20looks%20safe.%20Go%20book%20it%20%3A%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="939" y="628" w="683" h="741" measuredW="450" measuredH="400" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//avoidbadairbnb.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="1012" y="774" w="-1" h="-1" measuredW="543" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Oh%20no.%20there%20may%20be%20some%20problem%20with%20the%20room...</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Paragraph" x="1027" y="821" w="506" h="66" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Output%20reviews%20may%20include%20some%20risks%20that%20previous%20stayers%20have%20experienced.%20Check%20it%20out%20and%20see%20if%20these%20are%20acceptable%20to%20you.</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="1027" y="894" w="506" h="445" measuredW="635" measuredH="559" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>../../../../Desktop/Download/%u30B9%u30AF%u30EA%u30FC%u30F3%u30B7%u30E7%u30C3%u30C8%25202015-12-13%252010.50.08.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
